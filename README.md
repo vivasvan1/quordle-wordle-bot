@@ -30,4 +30,5 @@ Based on [this](https://towardsdatascience.com/a-frequency-analysis-on-wordle-9c
 
 ## Future Tasks
 
-    1. Make a small chrome plugin to smooth out the process of solving.
+~ Make a small chrome plugin for neat UX.
+~ Improve the speed of solver.
